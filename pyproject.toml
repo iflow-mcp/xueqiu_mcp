@@ -1,5 +1,5 @@
 [project]
-name = "xueqiu-mcp"
+name = "iflow-mcp-xueqiu-mcp"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
@@ -7,4 +7,5 @@ requires-python = ">=3.11"
 dependencies = [
     "fastmcp>=2.1.2",
     "pysnowball>=0.1.3",
+    "python-dotenv>=1.0.0",
 ]
