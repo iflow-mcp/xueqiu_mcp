@@ -505,6 +505,10 @@ def suggest_stock(keyword: str="SZ000002") -> dict:
     return process_data(result)
 
 
+def main():
+    """Main entry point for the MCP server"""
+    mcp.run()
+
 if __name__ == "__main__":
     # This code only runs when the file is executed directly
-    mcp.run()
+    main()
