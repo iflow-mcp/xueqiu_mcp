@@ -1,0 +1,13 @@
+Create a professional logo for "雪球MCP" (Xueqiu MCP), a stock market data service. The logo should incorporate:
+
+1. A snowball (雪球) element - representing the Xueqiu brand
+2. Stock market/financial elements like charts, graphs, or trending arrows
+3. Modern, clean design suitable for a financial technology service
+4. Colors: Use blue and white as primary colors, with possible accent colors like green (for gains) or red (for market data)
+5. The logo should be suitable for both light and dark backgrounds
+6. Include both icon and text versions
+7. Professional appearance suitable for financial/investment applications
+
+Style: Modern, minimalist, tech-focused
+Format: Vector-style, clean lines
+Use case: MCP (Model Context Protocol) server for stock market data queries
